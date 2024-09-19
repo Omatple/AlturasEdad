@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alumnos>
+    <alumno altura="1.67" nombre="Ana María"/>
+    <alumno altura="1.67" nombre="Juan Antonio"/>
+    <alumno altura="1.70" nombre="Esther"/>
+    <alumno altura="1.80" nombre="Rubén"/>
+    <alumno altura="1.81" nombre="Pedro"/>
+</alumnos>
